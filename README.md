@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jasonsi1993
 - 👀 I’m interested in anything deep-learning
 - 🌱 I’m currently learning deep-learning compiler
-- 💞️ I’m looking to collaborate on small projects that targets solving day to day life problems
+- 💞️ I’m looking to collaborate on small projects that targets solving day to day problems
 - 📫 How to reach me jasonsi1993@gmail.com
 
 <!---
